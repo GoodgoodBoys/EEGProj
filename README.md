@@ -11,6 +11,8 @@ Hardware
 * Ultracortex Mark IV
 * ESP32 based model car
 
+Detailed documentation and purchase links regarding the testing equipment are available at the following address: https://docs.openbci.com/
+
 Installation
 ------------
 To run this project, please download and install the OpenBCI library first. https://github.com/brainflow-dev/brainflow
