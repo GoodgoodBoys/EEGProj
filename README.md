@@ -22,3 +22,5 @@ First, turn on the power of the Cyton board and then run:
 "COMx" is the port number mapped in your computer.
 
 `EEGModelCar.ino` is the code for the model car based on ESP32, which needs to be burned into the car using Arduino.The assembly requirements of the trolley can be found in the report for details.
+
+![EEG_Demo](https://github.com/user-attachments/assets/0413e938-9167-4e27-9f00-d9eb3b1b5f8a)
